@@ -17,4 +17,4 @@ Multipliers\
 ...............................\
 unsigned 4-bit multipliers\
 unsigned 8-bit multipliers\
-signed 8-bit multipliers\
+signed 8-bit multipliers
