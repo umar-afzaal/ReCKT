@@ -15,6 +15,6 @@ signed 16-bit adders\
 \
 Multipliers\
 ...............................\
-unsigned 4-bit multipliers\
+signed 4-bit multipliers\
 unsigned 8-bit multipliers\
 signed 8-bit multipliers
