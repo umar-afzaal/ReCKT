@@ -5,16 +5,5 @@ A library of reliable adders and multipliers.
 ReCkt is released under the MIT license, see the **LICENSE** file for details.
 
 ## Update
-Stay tuned. The following circuits are in pipeline.\
-\
-Adders\
-...............................\
-signed 4-bit adders\
-unsigned 16-bit adders\
-signed 16-bit adders\
-\
-Multipliers\
-...............................\
-signed 4-bit multipliers\
-unsigned 8-bit multipliers\
-signed 8-bit multipliers
+Stay tuned. More circuits are in pipeline.\
+
