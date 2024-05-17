@@ -5,5 +5,5 @@ A library of reliable adders and multipliers.
 ReCkt is released under the MIT license, see the **LICENSE** file for details.
 
 ## Update
-Stay tuned. More circuits are in pipeline.
+More circuits are in pipeline.
 
