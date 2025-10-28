@@ -1,4 +1,4 @@
-# ReCkt
+# ReCkt ReliableCircuit
 A library of reliable adders and multipliers.
 
 ## License
