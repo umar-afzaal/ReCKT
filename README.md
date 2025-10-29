@@ -1,4 +1,4 @@
-# ReCkt ReliableCircuit
+# ReliableCircuit Libray (ReCKT)
 A library of reliable adders and multipliers. Publication doi: 10.1109/TEVC.2022.3169641
 https://ieeexplore.ieee.org/document/9761994
 
